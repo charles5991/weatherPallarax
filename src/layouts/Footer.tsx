@@ -14,7 +14,7 @@ const Footer = () => {
           <AiOutlineGithub className="text-lg" />
         </a>
         <a
-          href="http://jevonlevin.com"
+          href="https://charlesdev.vercel.app"
           target="_blank"
           rel="noopener noreferrer"
           aria-label="contact icon"
