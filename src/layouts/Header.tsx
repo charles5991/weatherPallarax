@@ -42,8 +42,11 @@ const Header = () => {
   const content = (child) => (
     <div className="container relative mx-auto flex h-full max-w-screen-md flex-col items-center justify-center px-5">
       <Parallax speed={10}>
-        <h1 className="font-ubuntu text-6xl font-bold text-white drop-shadow-lg">
+        <h1 className="pb-10 font-ubuntu text-6xl font-bold text-white drop-shadow-lg">
           Charles
+        </h1>
+        <h1 className="font-ubuntu text-6xl font-bold text-white drop-shadow-lg">
+          Weather
         </h1>
       </Parallax>
 
