@@ -11,7 +11,6 @@
     "clean": "rimraf .next out",
     "lint": "next lint",
     "build-types": "tsc --noEmit --pretty",
-    "test": "jest --watch",
     "prepare": "husky install"
   },
   "dependencies": {
@@ -39,8 +38,6 @@
     "@commitlint/cli": "^16.2.4",
     "@commitlint/config-conventional": "^16.2.4",
     "@next/bundle-analyzer": "^12.1.5",
-    "@testing-library/jest-dom": "^5.16.4",
-    "@testing-library/react": "^13.1.1",
     "@types/moment": "^2.13.0",
     "@types/node": "^17.0.29",
     "@types/react": "^18.0.8",
@@ -64,7 +61,6 @@
     "eslint-plugin-react-hooks": "^4.5.0",
     "eslint-plugin-simple-import-sort": "^7.0.0",
     "eslint-plugin-tailwindcss": "^3.5.0",
-    "eslint-plugin-testing-library": "^5.3.1",
     "eslint-plugin-unused-imports": "^2.0.0",
     "husky": "^7.0.4",
     "jest": "^28.0.2",
