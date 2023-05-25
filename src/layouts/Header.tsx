@@ -43,7 +43,7 @@ const Header = () => {
     <div className="container relative mx-auto flex h-full max-w-screen-md flex-col items-center justify-center px-5">
       <Parallax speed={10}>
         <h1 className="font-ubuntu text-6xl font-bold text-white drop-shadow-lg">
-          jweath
+          Charles
         </h1>
       </Parallax>
 

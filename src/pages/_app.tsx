@@ -27,7 +27,7 @@ const MyApp = ({ Component, pageProps }: AppProps) => (
     <Main
       meta={
         <Meta
-          title="jweath | Weather App by Jevon"
+          title="Weather App | Weather App by Charles Chan"
           description="A web application to get updated weather from all places in the world."
         />
       }
